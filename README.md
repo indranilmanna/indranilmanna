@@ -1,61 +1,68 @@
 <p align="center">
-  <img src="./banner.svg" alt="Indranil Manna — Laser Material Processing & EV Battery Manufacturing" width="100%">
+  <img src="./banner.svg" alt="Indranil Manna — Laser Material Processing and EV Battery Manufacturing" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Indranil Manna 👋</h1>
+<h1 align="center">Indranil Manna</h1>
 
 <p align="center">
-  <b>PhD Researcher in Mechanical Engineering at IIT Delhi</b><br>
-  Laser material processing • EV battery manufacturing • advanced joining technologies
+  <b>PhD Researcher · Mechanical Engineering · IIT Delhi</b><br>
+  Laser Material Processing · EV Battery Manufacturing · Advanced Joining
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=XSdDNNgAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="https://www.researchgate.net/profile/Indranil-Manna-3">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate">
-  </a>
-  <a href="https://www.linkedin.com/in/indranil-manna1998">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://scholar.google.com/citations?user=XSdDNNgAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://www.researchgate.net/profile/Indranil-Manna-3"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://www.linkedin.com/in/indranil-manna1998"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 ---
 
+<table>
+<tr>
+<td width="70%" valign="top">
+
 ## 👨‍🔬 About Me
 
-I am a **PhD researcher in Mechanical Engineering at the Indian Institute of Technology Delhi (IIT Delhi)** working on **laser material processing for electric-vehicle battery manufacturing**.
+I am a **PhD researcher in Mechanical Engineering at the Indian Institute of Technology Delhi (IIT Delhi)** working on **laser-based joining and manufacturing technologies for electric-vehicle battery systems**.
 
-My research focuses on developing efficient, reliable, and manufacturable joining solutions for next-generation battery systems. I am particularly interested in the interaction between **laser energy, materials, process dynamics, joint quality, electrical performance, and manufacturing scalability**.
+My research connects **laser–material interaction, welding metallurgy, thermal modelling, electrical performance and manufacturing scalability** to develop robust joining solutions for next-generation battery packs.
 
-I have also worked with the **Laser Beam Welding Group at WMG, University of Warwick**, exploring advanced laser technologies for challenging battery-material joining applications.
+I have also worked with the **Laser Beam Welding Group at WMG, University of Warwick**, on advanced laser technologies for challenging battery-material joining applications.
 
-## 🔬 Research Interests
+</td>
+<td width="30%" align="center" valign="top">
 
-- 🔵 Blue laser welding
-- ⚡ EV battery interconnects and joining
-- 🔋 Pouch-cell multi-foil-to-tab welding
-- 🌀 Dynamic beam shaping and wobble welding
-- 🧲 Interlayers for dissimilar-metal joining
-- 🌡️ Thermal modelling and process simulation
-- 🔁 Reversible joining / laser-assisted soldering
-- 📈 Process-window development and manufacturing optimisation
-- 🔍 Weld quality, contact resistance and mechanical characterisation
+<img src="https://avatars.githubusercontent.com/u/42141211?v=4" width="190" alt="Indranil Manna profile photograph">
+
+</td>
+</tr>
+</table>
+
+## 🔬 Research Focus
+
+- 🔵 **Blue laser welding** of highly reflective conductive materials
+- 🔋 **EV battery interconnects** and pouch-cell joining
+- 🧵 **Multi-foil-to-tab welding** and defect mitigation
+- 🌀 **Dynamic beam shaping / wobble welding**
+- 🧲 **Interlayer-assisted Cu–Al dissimilar joining**
+- 🌡️ **Transient thermal modelling** and laser heat-source development
+- 🔁 **Reversible joining and laser-assisted soldering**
+- ⚡ **Electrical contact resistance** and joint performance
+- 🔍 **Microstructure, weld quality and mechanical characterisation**
 
 ## 🚀 Current Research Themes
 
-### 🔵 Advanced Laser Welding for Battery Manufacturing
-Developing process strategies for difficult-to-weld conductive materials such as **copper and aluminium**, with emphasis on laser wavelength, beam profile and process stability.
+### 🔵 Advanced laser welding for battery manufacturing
+Developing laser-processing strategies for **copper and aluminium**, with emphasis on wavelength, beam profile, process stability, weld geometry and defect suppression.
 
-### 🔋 Multi-Foil-to-Tab Joining
-Investigating defect formation and mitigation during joining of thin battery foils to tabs for pouch-cell manufacturing.
+### 🔋 Multi-foil-to-tab joining
+Understanding how very thin foil stacks behave during joining and developing strategies to minimise **foil cutting, porosity, cracking and electrical-resistance variation**.
 
-### 🌀 Beam Shaping & Process Control
-Studying how wobble trajectories and spatial beam distributions influence melt-pool behaviour, weld geometry and defects.
+### 🌀 Beam shaping and process control
+Studying how spatial beam distributions and wobble trajectories influence **melt-pool dynamics, heat flow and joint quality**.
 
-### 🔁 Reversible Battery Interconnects
-Exploring joining approaches that enable **bonding, debonding and rebonding** for improved repairability, reuse and circular battery manufacturing.
+### 🔁 Reversible battery interconnects
+Exploring **bonding–debonding–rebonding** approaches for battery repair, reuse and circular manufacturing.
 
 ---
 
@@ -73,43 +80,40 @@ Exploring joining approaches that enable **bonding, debonding and rebonding** fo
 
 ---
 
-## 📚 Selected Research Topics
+## 📚 Research Topics You Will See Here
 
-| Theme | Focus |
+| Theme | Typical content |
 |---|---|
-| **Blue laser welding** | High-absorptivity laser processing of conductive materials |
-| **Cu–Al joining** | Dissimilar-metal joining and interlayer design |
-| **Battery interconnects** | Low-resistance, mechanically robust joints |
-| **Multi-foil joining** | Thin-foil stack integrity and defect suppression |
-| **Laser soldering** | Reversible joining for circular battery systems |
-| **Simulation** | Transient thermal modelling and laser heat-source development |
+| **Blue laser welding** | Beam absorption, process windows, weld morphology and defects |
+| **Cu–Al joining** | Dissimilar-metal welding and interlayer optimisation |
+| **Battery interconnects** | Mechanical strength and low-resistance joint design |
+| **Multi-foil joining** | Thin-foil integrity, process stability and defect mitigation |
+| **Laser soldering** | Reversible joining for battery repair and circularity |
+| **Simulation** | Transient thermal models, Gaussian / shaped heat sources and COMSOL workflows |
+| **Data analysis** | MATLAB scripts for beam profiles, process maps and experimental analysis |
+
+## 📌 Planned Public Repositories
+
+I am gradually organising research code and reusable tools into public repositories, including:
+
+- **Laser beam profile visualisation** — Gaussian and super-Gaussian intensity distributions
+- **Laser wobble path generation** — trajectory visualisation and parameter studies
+- **COMSOL modelling notes** — thermal-model setup, solver strategies and post-processing
+- **Battery welding data analysis** — process-window mapping and weld-quality analysis
 
 ---
 
-## 🎯 What I Want to Build
+## 🎯 Research Goal
 
-I want to contribute to manufacturing technologies that make future battery systems:
+To develop manufacturing technologies that make future battery systems:
 
-**more reliable · more energy efficient · easier to manufacture · easier to repair · easier to recycle**
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=indranilmanna&show_icons=true&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indranilmanna&layout=compact&hide_border=true" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indranilmanna&hide_border=true" alt="GitHub streak">
-</p>
+<p align="center"><b>more reliable · more efficient · easier to manufacture · easier to repair · easier to recycle</b></p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Collaboration
 
-I am interested in collaborations in **laser manufacturing, battery joining, advanced welding, process modelling and sustainable manufacturing**.
+I am interested in collaborations involving **laser manufacturing, battery joining, advanced welding, process modelling and sustainable manufacturing**.
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=XSdDNNgAAAAJ">Google Scholar</a>
@@ -119,6 +123,4 @@ I am interested in collaborations in **laser manufacturing, battery joining, adv
   <a href="https://www.linkedin.com/in/indranil-manna1998">LinkedIn</a>
 </p>
 
-<p align="center">
-  <i>Engineering better joints for better batteries.</i>
-</p>
+<p align="center"><i>Engineering better joints for better batteries.</i></p>
